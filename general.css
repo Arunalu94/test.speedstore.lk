@@ -1,6 +1,7 @@
 body {
     display:flex;
-    align-items: center;
     font-family: sans-serif;
     background-image: url(main\ page.jpeg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
 }
