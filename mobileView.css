@@ -1,8 +1,4 @@
-    .header a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-    .header-right {
-      float: none;
-    }
+body {
+    font-size: 50px;
+    background-color: blue;
+}
